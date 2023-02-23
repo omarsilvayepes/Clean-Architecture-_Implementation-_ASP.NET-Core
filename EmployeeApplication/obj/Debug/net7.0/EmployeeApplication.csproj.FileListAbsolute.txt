@@ -1,0 +1,15 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\bin\Debug\net7.0\EmployeeApplication.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\bin\Debug\net7.0\EmployeeApplication.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\bin\Debug\net7.0\EmployeeApplication.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\bin\Debug\net7.0\EmployeeCore.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\bin\Debug\net7.0\EmployeeCore.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.csproj.CopyComplete
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\refint\EmployeeApplication.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\EmployeeApplication.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeApplication\obj\Debug\net7.0\ref\EmployeeApplication.dll

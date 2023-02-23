@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljLOelWr/Yn+XecUlrXaP2HqgJs1Ifc7AKM+/sWCFxA++W8YxeZM3b2jLwNiyaKdPIPjR2CsNI8rn0hhw7z5uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omary\\OneDrive\\Escritorio\\LearningDEV\\EmployeeManagementCleanArchitecture\\EmployeeApplication\\EmployeeApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omary\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omary\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

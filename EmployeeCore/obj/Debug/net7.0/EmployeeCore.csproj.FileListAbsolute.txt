@@ -1,0 +1,12 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\bin\Debug\net7.0\EmployeeCore.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\bin\Debug\net7.0\EmployeeCore.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\bin\Debug\net7.0\EmployeeCore.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\refint\EmployeeCore.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\EmployeeCore.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeCore\obj\Debug\net7.0\ref\EmployeeCore.dll

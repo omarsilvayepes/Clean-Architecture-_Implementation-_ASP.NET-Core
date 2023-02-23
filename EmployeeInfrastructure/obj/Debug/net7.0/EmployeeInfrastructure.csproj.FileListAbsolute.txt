@@ -1,0 +1,15 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\bin\Debug\net7.0\EmployeeInfrastructure.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\bin\Debug\net7.0\EmployeeInfrastructure.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\bin\Debug\net7.0\EmployeeInfrastructure.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\bin\Debug\net7.0\EmployeeCore.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\bin\Debug\net7.0\EmployeeCore.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.csproj.CopyComplete
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\refint\EmployeeInfrastructure.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\EmployeeInfrastructure.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\EmployeeManagementCleanArchitecture\EmployeeInfrastructure\obj\Debug\net7.0\ref\EmployeeInfrastructure.dll
